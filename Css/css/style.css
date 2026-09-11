@@ -1,0 +1,26 @@
+/*
+    Inserir Comentário
+    para chamar um id, usa #
+    para chamar uma classe, usa . + nomeDaClasse
+*/
+
+.red {
+
+    color:red;
+}
+
+#pink {
+
+    color:pink;
+}
+
+h1{
+    font-family: arial;
+    font-size: 45;
+    font-weight: 2;
+}
+
+p{
+    background-color:black;
+    color:yellow;
+}

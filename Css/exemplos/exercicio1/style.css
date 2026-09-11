@@ -1,0 +1,40 @@
+body{
+    background-color:rgb(168, 65, 209)
+}
+
+h1{
+    background-color:white ;
+    text-align: center;
+    font-family: arial;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nomesAlbuns{
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ulBranca {
+    background-color: white;
+    font-size: 30px;
+    list-style: none;
+}
+footer{
+    background-color: rgb(106, 17, 141);
+}
+
+#link{
+    text-align: center;
+}
+
+#listaLink{
+    font-size: 30px;
+}
+
+#sectionCuriosidade{
+    background-color:rgb(247, 60, 247) ;
+    font-family: Arial, Helvetica, sans-serif;
+}
